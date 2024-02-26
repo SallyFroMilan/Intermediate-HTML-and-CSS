@@ -1,6 +1,6 @@
 # INERMEDIATE HTML and CSS
 
-This is the first of the two part course where we are going to dig *deeper* into **HTML** and **CSS**.
+This is the first of the **two part course** where we are going to dig *deeper* into **HTML** and **CSS**.
 
 Thanks to the previous **foundations** lessons we gave you the bare necessities for getting started so you could move on and be somewhat productive as quickly as possible, but now it’s time to slow down and dig in!
 
