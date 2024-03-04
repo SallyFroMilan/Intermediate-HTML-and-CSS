@@ -22,7 +22,8 @@ and are also very useful if you need to:
 4. Patterned backgrounds
 5. Applying effects to other elements via SVG filters
 
-“**SVG**” stands for “**Scalable Vector Graphics**”. 
+“**SVG**” stands for “**Scalable Vector Graphics**”.
+ 
 ° **Vector graphics** are images defined by *math*<br>
 as opposed to traditional<br> 
 ° “raster graphics” where your image is defined by a *grid of pixels*.
