@@ -1,6 +1,6 @@
 ## SVG - Scalable Vector Graphics
 
-**SVGs** are a very common **image format** on the web, an incredibly *powerful* tool for creating **high-quality, dynamic images** for your website.
+**SVGs** are a very common **image format** on the web, an *incredibly powerful tool* for creating **high-quality, dynamic images** for your website.
 
 
 ### What are SVGs?
