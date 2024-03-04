@@ -8,4 +8,4 @@ There are many more **HTML elements**!<br>
 Throughout this course, we’ll be hitting the rest of the important elements such as *forms and tables*.<br>
 There is also a lot more that you can do with **CSS** that you’ll learn throughout this course, such as *variables, functions, shadows* and of course *grid layouts*!
 
-You’ll learn about *animations, accessibility, and responsive design* in the second part of this course later in the curriculum.
+You’ll learn about *animations, accessibility, and responsive design* in the second part of this course.
