@@ -9,7 +9,7 @@ Some of the more advanced features can get a little tricky to set up correctly b
 
 **HTML tables should be used for tabular data** — this is what they are designed for.<br> Unfortunately, a lot of people used to use HTML tables to lay out web pages, e.g. one row to contain the header, one row to contain the content columns, one row to contain the footer, etc. This was commonly used because CSS support across browsers used to be terrible; table layouts are much less common nowadays, but you might still see them in some corners of the web.
 
-    In short, using tables for layout rather than CSS layout techniques is a bad idea;
+    In short, using tables for layout rather than CSS layout techniques is a bad idea.
 
 The **main reasons** are:
 
