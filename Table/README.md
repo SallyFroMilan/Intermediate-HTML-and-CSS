@@ -5,7 +5,7 @@ Some data just *really needs to be displayed* in a **table**. **HTML tables** mi
 
 Some of the more advanced features can get a little tricky to set up correctly but getting started with tables is pretty easy. You create a table with `<table></table>` tags and then put the elements for rows, columns, headers, or anything else that’s possible inside those table elements.
 
-**Tables, to be effective on the web**, need to be provided with some styling information with CSS, as well as good solid structure with HTML.
+**Tables, to be effective on the web**, need to be provided with styling information with CSS, as well as good solid structure with HTML.
 
 ## When should you NOT use HTML tables?
 
