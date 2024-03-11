@@ -1,5 +1,6 @@
 ## HTML TABLE BASICS
-allow you to create **two-dimensional tables made of rows and columns**. 
+
+**HTML tables** allow you to create **two-dimensional tables made of rows and columns**. 
 
 Some data just *really needs to be displayed* in a **table**. **HTML tables** might be *less commonly used* than buttons, links, lists and everything else you’ve learned so far, but there are **some cases where they’re the perfect tool**.
 
