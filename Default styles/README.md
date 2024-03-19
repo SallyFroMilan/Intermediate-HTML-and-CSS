@@ -6,7 +6,7 @@ The *problem* with this is that there is no guarantee that different browsers wi
 To counter this, many developers start their projects with a **“CSS Reset”**(or reset stylesheet): a file that undoes browser defaults, so that **every element behaves the same in every browser**,
 is a collection of **CSS rules** used to clear the browser's default formatting of HTML elements, removing potential inconsistencies between different browsers.
 
-The **goal** *of a reset stylesheet* is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on.
+The **goal** of a reset stylesheet is to **reduce browser inconsistencies** in things like default line heights, margins and font sizes of headings, and so on.
 
 You don’t have to use a CSS reset. In many cases, you’re going to end up undoing, or redoing a lot of the styles that a reset will provide for you. **You can decide whether or not you want to use one on a regular basis**, but it’s worth taking the time to dig through a couple now. Understanding exactly how they’re doing what they’re doing is a useful exercise!
 
