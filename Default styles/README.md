@@ -1,7 +1,7 @@
 ## DEFAULT STYLES
 
 By default, **browsers inject a little bit of style, of CSS into every web page**, so in your web projects as well.<br>
-The *problem* with this is that there is no guarantee that different browsers will style everything the same. In general, *inconsistencies* are going to be pretty minor, but they DO exist. Also, in many cases as a developer, you’re going to end up *undoing or redoing all of this default styling* to make your site look exactly how you envision it.
+The *problem* with this is that there is no guarantee that different browsers will style everything the same. In general, **inconsistencies** are going to be pretty minor, but they DO exist. Also, in many cases as a developer, you’re going to end up *undoing or redoing all of this default styling* to make your site look exactly how you envision it.
 
 To counter this, many developers start their projects with a **“CSS Reset”**(or reset stylesheet): a file that undoes browser defaults, so that **every element behaves the same in every browser**,
 is a collection of **CSS rules** used to clear the browser's default formatting of HTML elements, removing potential inconsistencies between different browsers.
