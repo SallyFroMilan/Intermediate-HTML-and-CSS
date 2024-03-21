@@ -2,7 +2,7 @@
 CSS rules contain declarations, which in turn are composed of properties and values. Each property used in CSS has a **value type** that describes what kind of values it is allowed to have.
 
 ### What is a CSS value?
-value types are surrounded by angle brackets, such as <color> or <length>. When you see the value type <color> as valid for a particular property, that means you can use any valid color as a value for that property, as listed on the <color> reference page.
+Value types are surrounded by angle brackets, such as <color> or <length>. When you see the value type <color> as valid for a particular property, that means you can use any valid color as a value for that property, as listed on the <color> reference page.
 
 ### CSS Units
 There are many different units that you can use to **define sizes in CSS**.
