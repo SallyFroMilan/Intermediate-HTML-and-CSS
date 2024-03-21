@@ -16,10 +16,10 @@ are those that are **always the same in any context**.<br>
 
 ### Relative length units
 are units that **can change based on their context**.<br>
-Are relative to something else, perhaps the size of the parent element's font, or the size of the viewport. The benefit of using relative units is that with some careful planning you can make it so the size of text or other elements scales relative to everything else on the page. There are several of them that you are likely to encounter and want to use.
+Are relative to something else, perhaps the size of the parent element's font, or the size of the viewport. The **benefit** of using relative units is that with some careful planning you can make it so the size of text or other elements scales relative to everything else on the page. There are several of them that you are likely to encounter and want to use.
 
 ### em and rem
-`em` and `rem` both refer to a font size, though they are often used to define other sizes in CSS. You’ll see both of them often so we’re going to explain both, but as a rule-of-thumb, prefer `rem`.
+`em` and `rem` both refer to a **font size**, though *they are often used* to **define other sizes in CSS**. You’ll see both of them often so we’re going to explain both, but as a rule-of-thumb, **prefer `rem`**.
 
 `1em` is the `font-size` of an element (or the element’s parent if you’re using it to set `font-size`). So, for example, if an element’s `font-size` is `16px`, then setting its width to `4em` would make its width `64px` (`16 * 4 == 64`).
 
