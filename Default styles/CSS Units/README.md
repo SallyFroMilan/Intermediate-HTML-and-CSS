@@ -5,13 +5,14 @@ CSS rules contain declarations, which in turn are composed of properties and val
 **Value types** are surrounded by angle brackets, such as `<color>` or `<length>`. For example, when you see the value type `<color>` as valid for a particular property, that means you can use any valid color as a value for that property, as listed on the `<color>` reference page.
 
 ### Lengths
-The numeric type you will come across **most frequently** is `<length>`. There are two types of lengths used in CSS, part of the **CSS Units**: **relative and absolute**.
+The **numeric type** you will come across *most frequently* is `<length>`. There are two types of lengths used in CSS, part of the **CSS Units**: **relative and absolute**.
 
 ### CSS Units
-There are many different units that you can use to **define sizes in CSS**, the most important are **relative and absolute units**
+There are many different units that you can use to **define sizes in CSS**, the most important are **relative and absolute units**.
 
 ### Absolute length units
-are those that are **always the same in any context**. `px` is an absolute unit because *the size of a pixel doesn’t change* relative to anything else on the page. In fact, `px` **is the only absolute unit you should be using for web projects**. The rest of them make more sense in a print setting because they are related to physical units such as `in` (inch) and `cm` (centimeter) - we don't typically use cm on screen.
+are those that are **always the same in any context**.<br>
+`px` is an absolute unit because *the size of a pixel doesn’t change* relative to anything else on the page. In fact, `px` **is the only absolute unit you should be using for web projects**. The rest of them make more sense in a print setting because they are related to physical units such as `in` (inch) and `cm` (centimeter) - we don't typically use cm on screen.
 
 ### Relative length units
 are units that **can change based on their context**. Are relative to something else, perhaps the size of the parent element's font, or the size of the viewport. The benefit of using relative units is that with some careful planning you can make it so the size of text or other elements scales relative to everything else on the page. There are several of them that you are likely to encounter and want to use.
