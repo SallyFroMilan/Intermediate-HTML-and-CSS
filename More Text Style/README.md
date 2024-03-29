@@ -31,5 +31,18 @@ or an `@import` tag that can be dropped at the top of a CSS file.
 
 Keep in mind that it’s **important to add a fallback font**. If you’re linking to an external API, you have no guarantee that the URL won’t change, or that the external API won’t go down at some point. Having a reasonable fallback means that if something goes wrong, at least your site won’t look completely broken.
 
+### Downloaded fonts
+It is also possible to use a font that you have **downloaded** from the web. In your CSS file, you import and define a custom font using the `@font-face` rule, and then use it as you would any other font-family.<br>
+There are multiple types of font file formats. Please take care when choosing a font file format however, because some *are not universally supported* by browsers. 
 
+    @font-face {
+        font-family: my-cool-font;
+        src: url(../fonts/the-font-file.woff);
+    }
+
+    h1 {
+        font-family: my-cool-font, sans-serif;
+    }
+
+This method may be more reliable than relying on a third-party font API, but it is always wise to include a fallback.
 
