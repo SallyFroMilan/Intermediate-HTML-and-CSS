@@ -17,4 +17,19 @@ One popular and easy method to get fonts that are not installed on a user’s co
 >### A warning about Google fonts
 >As you look into online font libraries to use you may come across Google Fonts. We strongly advise against using them, as websites that use Google Fonts violate the GDPR.
 
-**To use a font from one of these libraries**, go to the website, select a font and then copy a snippet from the website to import that font from their server into your website. You’ll be given either a `<link>` tag to put in your HTML or an `@import` tag that can be dropped at the top of a CSS file.
+**To use a font from one of these libraries**, go to the website, select a font and then copy a snippet from the website to import that font from their server into your website. You’ll be given either a `<link>` tag to put in your HTML like so
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+
+or an `@import` tag that can be dropped at the top of a CSS file.
+
+    @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+Keep in mind that it’s **important to add a fallback font**. If you’re linking to an external API, you have no guarantee that the URL won’t change, or that the external API won’t go down at some point. Having a reasonable fallback means that if something goes wrong, at least your site won’t look completely broken.
+
+
+
