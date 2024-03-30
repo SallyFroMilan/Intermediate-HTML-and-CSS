@@ -46,3 +46,6 @@ There are multiple types of font file formats. Please take care when choosing a 
 
 This method may be more reliable than relying on a third-party font API, but it is always wise to include a fallback.
 
+>Imported font performance considerations.<br>
+Like any resource imported fonts must be downloaded by the browser before being used
+
