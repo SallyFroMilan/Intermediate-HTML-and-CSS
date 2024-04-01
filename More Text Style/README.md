@@ -49,13 +49,15 @@ This method may be more reliable than relying on a third-party font API, but it 
 >Imported font performance considerations.<br>
 Like any resource imported fonts must be downloaded by the browser before being used.
 
-### Text styles
+## Text styles
 There is quite a lot that you can do with **CSS** when it comes to *manipulating text styles*. These rules are all relatively simple and self-explanatory.
 
-### font-style
+### Font-style
 Typically used to make a font italic. You learned about the HTML `<em>` tag, which uses an italic font, but `<em>` also signifies that the text it wraps is significant or should be emphasized in some way. A good rule of thumb to follow is that if you just want text to be italic (or bold, underlined, highlighted, etc.), use a CSS property. Otherwise, if text should have some sort of semantic emphasis, use the correct HTML element.
 
-### letter-spacing
-Letter spacing does what you would expect…. it changes the space between letters in a word. This can be useful for adjusting custom fonts that you feel have too much or too little space. It can also be aesthetically pleasing in some cases, like headers. Obviously, use this sparingly and with care. Do not make your site hard to read!
+### Letter-spacing
+It changes the space between letters in a word. This can be useful for adjusting custom fonts that you feel have too much or too little space. It can also be aesthetically pleasing in some cases, like headers. Obviously, use this sparingly and with care. Do not make your site hard to read!
+
+
 
 
