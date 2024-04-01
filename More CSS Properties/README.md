@@ -7,7 +7,7 @@ The background property not only sets background colors but is actually a shorth
 <li>specify background images</li>
 <li>change the position of background images</li>
 <li>change the size of background images</li>
-<li>change how background images repeat<li>
+<li>change how background images repeat</li>
 <li>or tile if they are too small to fill their container</li>
 <li>have multiple background layers</li>
 </ul>
