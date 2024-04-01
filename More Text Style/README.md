@@ -58,6 +58,25 @@ Typically used to make a font italic. You learned about the HTML `<em>` tag, whi
 ### Letter-spacing
 It changes the space between letters in a word. This can be useful for adjusting custom fonts that you feel have too much or too little space. It can also be aesthetically pleasing in some cases, like headers. Obviously, use this sparingly and with care. Do not make your site hard to read!
 
+### Line-height
+Adjusts the space between lines in wrapped text. Adding a little line-height can increase readability.
+
+### Text-transform
+It changes the case of the given text. You can use this, for example, to force your heading tags to be all uppercase, or to capitalize every word.
+
+### text-shadow
+Adds a shadow around the text in the selected element. This one is best used sparingly, but can be used to great effect in headings or other presentational text.
+
+### Ellipsis
+This one isn’t a single property, but it’s a **useful trick** to keep in your toolbox. With the text-overflow property, you can truncate overflowing text with an ellipsis. Making an overflow happen, however, requires the use of a couple other properties because the default behavior of text printing outside its container isn’t technically considered an overflow.
+
+    .overflowing {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+
 
 
 
