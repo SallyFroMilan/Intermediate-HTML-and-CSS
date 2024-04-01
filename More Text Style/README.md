@@ -64,7 +64,7 @@ Adjusts the space between lines in wrapped text. Adding a little line-height can
 ### Text-transform
 It changes the case of the given text. You can use this, for example, to force your heading tags to be all uppercase, or to capitalize every word.
 
-### text-shadow
+### Text-shadow
 Adds a shadow around the text in the selected element. This one is best used sparingly, but can be used to great effect in headings or other presentational text.
 
 ### Ellipsis
