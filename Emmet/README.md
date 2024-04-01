@@ -1,4 +1,4 @@
-## Emmet — the essential toolkit for web-developers
+## EMMET — the essential toolkit for web-developers
 
 Built into *VS Code* is a plugin that helps you write **HTML and CSS more efficiently** by providing a bunch of clever **shortcuts**. 
 

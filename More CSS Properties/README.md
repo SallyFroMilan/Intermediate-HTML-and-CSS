@@ -1,0 +1,2 @@
+## useful little CSS features you can use to add some shine to your projects.
+There are a lot of CSS properties, *hundreds*. Luckily, you don’t have to memorize them all: the amount of properties you’re actually going to use on a daily basis is much smaller. 
