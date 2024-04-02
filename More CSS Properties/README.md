@@ -26,7 +26,7 @@ It adds a shadow effect around an element. This is useful to create a sense of d
 In usage it’s straightforward, but keep in mind that it’s best used sparingly, and subtly. Prefer lighter, barely visible shadows to darker or brighter colors.
 
 ## Overflow
-It is possible, using overflow, to define what happens to an element when its content is too big to fit. The most common usage is likely to add scrollbars to an element inside a webpage, for example a card style element with scrollable content.
+It is possible, using `overflow`, to define what happens to an element when its content is too big to fit. The most common usage is likely to add scrollbars to an element inside a webpage, for example a card style element with scrollable content.
 
 ## Opacity
-Opacity is another easy one that can be very useful in some circumstances.
+It's another easy one that can be very useful in some circumstances.
