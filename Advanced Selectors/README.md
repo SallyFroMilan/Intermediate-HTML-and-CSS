@@ -1,6 +1,5 @@
 ## Advanced CSS selectors and how to target elements in a more specific and finely grained way.
 These selectors can be especially useful when you can’t (or don’t want to) change your HTML markup.
-
 There are a lot of advanced selectors, we’ll go through some of the most useful and common ones.
 
 ### Child and sibling combinators
