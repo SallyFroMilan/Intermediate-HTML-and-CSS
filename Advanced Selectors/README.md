@@ -48,8 +48,11 @@ Finally, if we want to select **all of the siblings following an element’s** a
 
 Just like the descendant combinator, these selectors *don’t* have any special specificity rules - their specificity score will just be made up of their component parts.
 
+### Pseudo-selectors
+**Pseudo-class selectors** are prefixed with a single colon and are a different way to target elements that already exist in HTML.<br>
+**Pseudo-elements** are prefixed with two colons and are used to target elements that don’t normally exist in the markup. 
 
-
-
+### Pseudo-classes
+They offer us different ways to target elements in our HTML. There are quite a lot of them, and they come in a couple of different flavors. Some are based on their position or structure within the HTML. Others are based on the state of a particular element, or how the user is currently interacting with it. Pseudo-classes share the same specificity as regular classes (0, 0, 1, 0). Just like regular classes, most can be chained together.
 
 
